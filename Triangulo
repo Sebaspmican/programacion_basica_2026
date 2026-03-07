@@ -1,0 +1,11 @@
+#Area triangulo 
+#1 solicitar al usuario la bese del triangulo
+#2 Solicitar al usuario la altura del triangulo
+#calcular el area usando la formula 
+# dar resultado si en verdad o falso si el area es igual o mayor que cien 
+
+Base = int(input("de cuanto es la base del triangulo"))
+Altura =int(input("de cuanto es la altura del triagulo"))
+Area = (Base*Altura/2)10
+print (Area)
+print ("¿El area es mayor que 100?",Area>100)
