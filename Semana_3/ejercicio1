@@ -1,0 +1,17 @@
+#esto es un tipo de dato float
+a=7.5
+#esto es un tipo de dato
+b=20
+print ("la suma es:",a+b)
+print(a+b)
+print ("la resta es:",a-b)
+print(a-b)
+print("la multiplicacion es:",a*b)
+print(a*b)
+print("la divicion es:",a/b)
+print(a/b)
+print("el residuo de la dicion es:";a//b)
+print(a//b)
+#Reciduo de la divicion
+print()
+print(a%b)
