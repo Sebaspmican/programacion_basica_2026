@@ -1,0 +1,15 @@
+#ALGORITMO
+# 1 pedir el primer puntaje
+#2 pedir el segundo porcentaje
+# camaparar puntaje 1 con pantaje 2
+#pseudocodigo
+#leer puntaje1
+#leer puntaje2
+#escrbir se puntaje1 es major que puntaje2
+
+
+Nacional = int(input("Ingrese el primer puntaje nacional"))
+Millos = int(input("Ingrese el primer puntaje millos"))
+print (Nacional > Millos)
+
+
