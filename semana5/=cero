@@ -1,0 +1,12 @@
+#algoritmo
+#1pedir el numero
+#2comparar el numero y si es meyor que cero escribir es un numero prositivo
+#3 si el numero es menor que cero escribir que es un numero negativa
+#si es igual a cero escribir el numero 0
+numero=float(input("dime el numero:"))
+if numero > 0:
+  print("el numero es POSITIVO")
+elif numero < 0:
+  print("el numero es NEGATIVO")
+else:
+  print ("el numero es CERO")
