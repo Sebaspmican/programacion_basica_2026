@@ -1,0 +1,5 @@
+nota=float(input("dame tu nota:"))
+if nota >=3.0:
+  print("paso la materia.")
+else:
+  print("perdio la materia.")
